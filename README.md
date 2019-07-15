@@ -1,3 +1,3 @@
-# linked-lists
+# Whiteboard Sessioms
 
-linked lists exercises
+- linked list: get last nth elements
